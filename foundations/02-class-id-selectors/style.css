@@ -1,0 +1,19 @@
+.regular-class {
+    background-color: #e81767;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one-ID {
+    color: #2babd4;
+    font-size: 36px;
+}
+
+.cool-class {
+    font-size: 24;
+}
+
+#another-id {
+    background-color: #31ce75;
+    font-size: 24px;
+    font-weight: 700;
+}
